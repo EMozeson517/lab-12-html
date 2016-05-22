@@ -1,0 +1,29 @@
+<!DOCTYPE.html>
+<html>
+<body>
+<script>
+
+#top {
+    background-color: #ccc;
+    padding: 30px
+}
+
+.intro {
+    color: blue;
+    font-weight: bold;
+}
+
+h2 {
+    color: blue;
+}
+.topMenu {
+    color: blue;
+}
+
+.yetAnotherMenu {
+    color: blue;
+}
+
+</script>
+</body>
+</html>
